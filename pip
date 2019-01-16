@@ -1,4 +1,4 @@
-# Python-in-out
+# Amazing ‘pip’
 
 Windows 找到左下角菜单旁边的搜索圆圈输入“cmd”，回车
 
@@ -21,4 +21,4 @@ Windows 找到左下角菜单旁边的搜索圆圈输入“cmd”，回车
 
 ## pip uninstall xxx
 
-很简单，uninstall的命令就是卸载一个包。
+uninstall的命令就是卸载一个包。
